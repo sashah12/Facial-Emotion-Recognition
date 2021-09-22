@@ -1,2 +1,2 @@
 # Facial-Recognition
-Real-time Facial Recognition Model using TensorFlow, OpenCV, and Keras
+Real-time Facial Emotion Recognition Model using TensorFlow, OpenCV, and Keras
